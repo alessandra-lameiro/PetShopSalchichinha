@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,400&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #E8DAB2;
+    
+}
+
+header {
+    height: 100vh;
+    position: relative;
+    
+}
+
+.titulo-header {
+    font-size: 26px;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 43%;
+    left: 10px;
+    transform: translateY(-43%);
+
+}
+
+.h2-header {
+    font-size: 52px;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+
+
+}
+
+.img-header {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+
+}
+
+article {
+    width: 800px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    background-color: #FFF;
+    box-sizing: border-box;
+    text-align: justify;
+    border-radius: 10px;
+    padding: 34px 24px 10px 24px;
+    margin-bottom: 50px;
+    box-shadow: 0 0 10px gray; 
+  
+}
+
+h1 {
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+   
+}
+
+p {
+   margin-top: 24px;
+   margin-bottom: 24px;
+   
+}
+
+h2 {
+    font-size: 30px;
+}
+
+img {
+    margin-left: 15px;
+
+}
+
+iframe {
+    margin-left: 15px;
+
+}
+
+
+.footer {
+    position: fixed;
+    background-color: #090909;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+
+h3 {
+    color: white;
+    float: right;
+    margin-right: 20px;
+
+
+}
+
+a {
+    color: #35B1D2;
+    text-decoration: none;
+    
+}
+
+
+
+
+
